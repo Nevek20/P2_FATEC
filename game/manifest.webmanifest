@@ -1,0 +1,12 @@
+{
+  "name": "Jogo DHTH",
+  "short_name": "Jogo DHTH",
+  "id": "com.example.downhillbike",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
